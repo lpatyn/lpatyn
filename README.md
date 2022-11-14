@@ -1,4 +1,4 @@
-## Greetings, true believer! 👋
+## Greetings, True Believer! 👋
 
  My name is Lautaro, I'm a bilingual developer in training from **BA, Argentina** (native Spanish speaker).
  
