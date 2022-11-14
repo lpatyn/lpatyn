@@ -1,16 +1,16 @@
-### Hi there 👋
+## Greetings, true believer! 👋
 
-<!--
-**lpatyn/lpatyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Lautaro, I'm a bilingual developer in training from **BA, Argentina** (native Spanish speaker).
+ 
+I'm currently taking a course in *Javascript Fullstack development*, but I've got some experience in a few other things...
 
-Here are some ideas to get you started:
+I'm a full-time Functional Analyst, with some experience (and a degree) in English Teaching, and a few years of experience in shipping and foreign trade (weird mix, huh 😅)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 I'm knowledgeable in:                    
+- SQL     
+- Javascript
+- HTML/CSS
+- Git/Github
+- Tableau
+- Postman
+- MS Office
