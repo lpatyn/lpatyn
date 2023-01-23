@@ -9,7 +9,11 @@ I'm a full-time Functional Analyst, with some experience (and a degree) in Engli
 ### 🎓 I'm knowledgeable in:                    
 - SQL     
 - Javascript
-- HTML/CSS
+- NodeJS
+- Express
+- EJS
+- HTML
+- CSS
 - Git/Github
 - Tableau
 - Postman
