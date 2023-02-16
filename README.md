@@ -7,10 +7,11 @@ I'm currently taking a course in *Javascript Fullstack development*, but I've go
 I'm a full-time Functional Analyst, with some experience (and a degree) in English Teaching, and a few years of experience in shipping and foreign trade (weird mix, huh 😅)
 
 ### 🎓 I'm knowledgeable in:                    
-- SQL     
+- MySQL     
 - Javascript
 - NodeJS
 - Express
+- Sequelize
 - EJS
 - HTML
 - CSS
