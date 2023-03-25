@@ -11,6 +11,7 @@ I'm a full-time Functional Analyst, with some experience (and a degree) in Engli
 - Javascript
 - NodeJS
 - Express
+- React
 - Sequelize
 - EJS
 - HTML
