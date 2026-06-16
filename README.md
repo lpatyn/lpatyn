@@ -1,8 +1,8 @@
 ## Greetings, True Believer! 👋
 
-My name is Lautaro, I'm a bilingual developer in training from **BA, Argentina** (native Spanish speaker).
+My name is Lautaro, I'm a bilingual tech enthusiast from **BA, Argentina** (native Spanish speaker).
 
-I'm a full-time Implementation Manager/Senior Account Analyst with a six-month incursion in Project Management for a SaaS, some experience (and a degree) in English Teaching, and a few years of experience in shipping and foreign trade (weird mix, huh 😅)
+I work full-time as an Implementation Manager/Project Manager for a SaaS, I have some experience (and a degree) in English Teaching, and a few years of experience in shipping and foreign trade (weird mix, huh 😅)
 
 ### 🎓 I'm knowledgeable in:     
 - Java
